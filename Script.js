@@ -2,7 +2,7 @@ function orderchickenWith(sideDish){
 console.log(" Chicken with " + sideDish);
 }
 orderChickenWith(" noodles !");//returns Chicken with noodles!
-orderChicjenWith();//return Chicken with undefined
+orderChicjenWith();//returns Chicken with undefined
 
 
 function orderChickenWith(sideDish){
